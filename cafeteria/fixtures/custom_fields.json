@@ -1,0 +1,13 @@
+[
+    {
+        "doctype":"Custom Field",
+        "dt":"Comanda",
+        "module":"cafeteria",
+        "name":"test_field",
+        "fieldname":"test",
+        "fieldtype": "int",
+        "label":"Test",
+        "insert_after":"mundo"
+
+    }
+]
