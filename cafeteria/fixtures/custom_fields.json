@@ -5,7 +5,7 @@
         "module":"cafeteria",
         "name":"test_field",
         "fieldname":"test",
-        "fieldtype": "int",
+        "fieldtype": "Int",
         "label":"Test",
         "insert_after":"mundo"
 
